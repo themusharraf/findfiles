@@ -13,8 +13,8 @@ from setuptools import find_packages, setup, Command
 
 # Package meta-data.
 NAME = 'finds'
-DESCRIPTION = 'Python Web Framework for building web applications'
-URL = 'https://github.com/me/myproject'
+DESCRIPTION = 'Python find files script'
+URL = 'https://github.com/themusharraf/findfiles'
 EMAIL = 'meibrohimov@gmail.com'
 AUTHOR = 'Musharraf Ibragimov'
 REQUIRES_PYTHON = '>=3.9.0'
